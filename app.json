@@ -1,0 +1,54 @@
+{
+	"nombre": "Arlette Yudid Neveros Leonardo",
+	"fechaNacimiento": "7- Junio- 2002",
+	"lugarNacimiento": "Acamixtla,Guerrero",
+	"Email": "arlette30neveros@gmail.com",
+	"Telefono": "9842569305",
+	"Resumen": "Soy una persona muy alegre, siempre ando sonriendo, busco ser feliz apesar de la vida de igual manera, actualmente soy estudiante en la Universidad tecnologica de la Rivera Maya, curso la carrera de TSU en Tecnologías de la Información, Área Desarrollo de Software Multiplataforma, para pagar mi universidad trabajo en las tardes en una tienda de abarrotes de mi zona... ",
+	"puestoSolicitado": "Ingeniero en Sistemas",
+
+	"habilidades": [
+		"Matematicas",
+		"Atencion al cliente",
+		"Trabajo en equipo"
+
+	],
+
+	"lenguages": [
+		"javascript",
+		"java",
+		"html",
+		"css",
+		"payton"
+	],
+	"baseDeDatos": [
+		"Mysql",
+		"MariaDB",
+		"Heidi"
+	],
+	"paqueteria": [
+		"excel",
+		"Word",
+		"PowerPoint"
+	],
+
+	"experienciaLaboral": [{
+			"empresa": " Grupo Xcaret",
+			"Puesto": " Capturadora de Datos",
+			"fecha": "29-Mayo-2019 a 29-Julio-2019",
+			"responsabilidades": [
+				"Capturar informacion",
+				"LLenar formatos",
+				"Ir a los campamentos de tortuga"
+			]
+		}
+
+	],
+	"educacion": [{
+		"escuela": "Universidad Tecnologica de la Rivera Maya",
+		"gradoEstudio": " En curso",
+		"Carrera": " TSU en Tecnologías de la Información, Área Desarrollo de Software Multiplataforma",
+		"fechaIngreso": "2020",
+		"fechaTermino": " ... "
+	}]
+}
