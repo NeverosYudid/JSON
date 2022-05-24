@@ -1,42 +1,43 @@
-{
-	"nombre": "Arlette Yudid Neveros Leonardo",
-	"fechaNacimiento": "7- Junio- 2002",
-	"lugarNacimiento": "Acamixtla,Guerrero",
+[
+	{
+	"Nombre": "Arlette Yudid Neveros Leonardo",
+	"FechaNacimiento": "7- Junio- 2002",
+	"LugarNacimiento": "Acamixtla,Guerrero",
 	"Email": "arlette30neveros@gmail.com",
 	"Telefono": "9842569305",
 	"Resumen": "Soy una persona muy alegre, siempre ando sonriendo, busco ser feliz apesar de la vida de igual manera, actualmente soy estudiante en la Universidad tecnologica de la Rivera Maya, curso la carrera de TSU en Tecnologías de la Información, Área Desarrollo de Software Multiplataforma, para pagar mi universidad trabajo en las tardes en una tienda de abarrotes de mi zona... ",
-	"puestoSolicitado": "Ingeniero en Sistemas",
+	"PuestoSolicitado": "Ingeniero en Sistemas",
 
-	"habilidades": [
+	"Habilidades": [
 		"Matematicas",
 		"Atencion al cliente",
 		"Trabajo en equipo"
 
 	],
 
-	"lenguages": [
+	"Lenguages": [
 		"javascript",
 		"java",
 		"html",
 		"css",
 		"payton"
 	],
-	"baseDeDatos": [
+	"BaseDeDatos": [
 		"Mysql",
 		"MariaDB",
 		"Heidi"
 	],
-	"paqueteria": [
-		"excel",
+	"Paqueteria": [
+		"Excel",
 		"Word",
 		"PowerPoint"
 	],
 
-	"experienciaLaboral": [{
-			"empresa": " Grupo Xcaret",
+	"ExperienciaLaboral": [{
+			"Empresa": " Grupo Xcaret",
 			"Puesto": " Capturadora de Datos",
-			"fecha": "29-Mayo-2019 a 29-Julio-2019",
-			"responsabilidades": [
+			"Fecha": "29-Mayo-2019 a 29-Julio-2019",
+			"Responsabilidades": [
 				"Capturar informacion",
 				"LLenar formatos",
 				"Ir a los campamentos de tortuga"
@@ -44,11 +45,11 @@
 		}
 
 	],
-	"educacion": [{
-		"escuela": "Universidad Tecnologica de la Rivera Maya",
-		"gradoEstudio": " En curso",
+	"Educacion": [{
+		"Instituto": "Universidad Tecnologica de la Rivera Maya",
+		"GradoEstudio": " En curso",
 		"Carrera": " TSU en Tecnologías de la Información, Área Desarrollo de Software Multiplataforma",
-		"fechaIngreso": "2020",
-		"fechaTermino": " ... "
+		"fechaIngreso": "2020"
 	}]
-}
+	}
+]
